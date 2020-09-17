@@ -7,4 +7,4 @@ branch test six
 switch test seven
 eight
 manage branch nine
-
+bug bug bug ten
