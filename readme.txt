@@ -5,8 +5,5 @@ version four now
 now is five
 branch test six
 switch test seven
-<<<<<<< HEAD
 conflict eight 
-=======
-conflict eight 
->>>>>>> dev
+
