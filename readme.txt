@@ -6,4 +6,5 @@ now is five
 branch test six
 switch test seven
 conflict eight 
+manage branch nine
 
